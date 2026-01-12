@@ -1,0 +1,15 @@
+/target
+/.classpath
+/.project
+/.settings
+*.log
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# Secrets
+application-local.properties
